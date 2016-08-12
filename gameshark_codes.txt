@@ -4,6 +4,9 @@ Infinite Master Balls:
 Instant level 30:
 0FAA01A9
 
+Unban a banned account:
+AA05440E
+
 Add a pokemon to your inventory (100% IV):
 0101D8CF: Rhydon
 0102D8CF: Kangaskhan
